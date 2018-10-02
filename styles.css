@@ -10,7 +10,7 @@ body {
 
 header {
   color: Black;
-  position: absolute;
+  position: relative;
   top: 1%;
   left: 10%;
   margin: 0px;
